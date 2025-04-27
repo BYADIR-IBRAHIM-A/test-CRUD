@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using FlowerShop.Data;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using FlowerShop.Models;
-using System.Collections.Generic;
 
 namespace FlowerShop.Data
 {
